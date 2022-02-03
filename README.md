@@ -18,3 +18,12 @@
 * beef
 * toenail clippers
 
+1. blue
+2. green
+3. yellow
+4. brown
+5. red
+
+This is a [link] {http://google.com}
+
+![alt text](/path/to/img.jpg "Title")
