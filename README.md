@@ -5,3 +5,9 @@
 > This is a block quote
 > nothing
 > more nothing
+
+> Another block quote
+> ##stuff
+
+*emphasis*
+**strong emphasis**
